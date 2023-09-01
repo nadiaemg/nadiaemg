@@ -1,5 +1,5 @@
-- 🍄 Hi, I’m _@nadiaemg_
-- 🐲 I’m interested in dinosaurs
+- ⭐ Hi, I’m _@nadiaemg_
+- 🍄 I’m interested in dinosaurs
 - 🌼 I’m currently learning web development
 - 💕 I’m looking to collaborate on Sustainable Development Goals
 
