@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nadiaemg
+- 👋 Hi, I’m _@nadiaemg_
 - 👀 I’m interested in dinosaurs
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on Sustainable Development Goals
-- 📫 How to reach me ...not today Satan
+- 📫 How to reach me ...
 
 <!---
 nadiaemg/nadiaemg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
